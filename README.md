@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋 I'm Inbal Buckris
+
+I'm looking for my next challenge in Frontend / Fullstack development positions.
+
+• 🌱 I’m currently learning React.js, Html, Css, JS <br>
+• 📫 How to reach me: inbalbu2@gmail.com
 
 <!--
 **InbalBu/InbalBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
