@@ -2,7 +2,7 @@
 
 I'm looking for my next challenge in Frontend / Fullstack development positions.
 
-• 🌱 I’m currently learning React.js, Html, css, JavaScript <br>
+• 🌱 I’m currently learning React, Html, css, JavaScript <br>
 • 📫 How to reach me: inbalbu2@gmail.com
 
 <!--
