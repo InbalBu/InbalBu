@@ -1,9 +1,10 @@
 ### Hi there! 👋 I'm Inbal Buckris
 
-I'm looking for my next challenge in Frontend / Fullstack development positions.
+🤔 I'm looking for my next challenge in Frontend / Fullstack development positions.
 
 • 🌱 I’m currently learning React, Html, css, JavaScript <br>
 • 📫 How to reach me: inbalbu2@gmail.com
+• 🔭 My Portfolio: https://inbalportfolio.vercel.app/
 
 <!--
 **InbalBu/InbalBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
