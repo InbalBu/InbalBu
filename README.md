@@ -28,7 +28,7 @@
 🤔 I'm a FullStack Developer from Israel,
 and I'm looking for my next challenge in Frontend / Fullstack development positions.
 
-• 🌱 I’m currently learning React, practicing buildint web applications. <br>
+• 🌱 I’m currently learning React, practicing building web applications. <br>
 • 📫 How to reach me: inbalbu2@gmail.com <br>
 • 🔭 My Portfolio: https://inbalportfolio.vercel.app/
 
