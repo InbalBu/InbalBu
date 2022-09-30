@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-🤔 I'm a FullStack Developer from Israel,
+🤔 I'm a FullStack Developer / Frontend from Israel,
 and I'm looking for my next challenge in Frontend / Fullstack development positions.
 
 • 🌱 I’m currently learning React, practicing building web applications. <br>
