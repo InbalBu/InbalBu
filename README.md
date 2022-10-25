@@ -30,7 +30,7 @@ and I'm looking for my next challenge in Frontend / Fullstack development positi
 
 • 🌱 I’m currently learning React, practicing building web applications. <br>
 • 📫 How to reach me: inbalbu2@gmail.com <br>
-• 🔭 My Portfolio: https://inbalportfolio.vercel.app/
+• 🔭 My Portfolio: https://inbalportfolio2022.vercel.app/
 
 ---
 
